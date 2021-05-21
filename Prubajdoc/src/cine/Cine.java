@@ -17,7 +17,7 @@ public class Cine {
 	}
 
 	public void anadePeli(Pelicula pelicula) {
-
+		System.out.println("hola");
 	}
 
 	public void anadePeli(Pelicula pelicula, int numSala) {
